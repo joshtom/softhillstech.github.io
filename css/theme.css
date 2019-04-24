@@ -1113,7 +1113,7 @@ License URI:
     content: '';
     visibility: hidden;
     opacity: 0;
-    background: rgba(0, 56, 227, 1);
+    background: rgba(255, 9, 56, 1);
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
     -webkit-transition: all ease 500ms;
