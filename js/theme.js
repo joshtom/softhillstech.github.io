@@ -296,10 +296,10 @@ License URI:
         var contact_map
         contact_map = new GMaps({
             el: '#gmap',
-            lat: 40.728157,
-            lng: -74.077644,
+            lat: 6.444370,
+            lng: 7.490580,
             scrollwheel: false,
-            zoom: 11,
+            zoom: 16,
             zoomControl: false,
             panControl: false,
             streetViewControl: false,
@@ -308,8 +308,8 @@ License URI:
             clickable: false
         });
         contact_map.addMarker({
-            lat: 40.728157,
-            lng: -74.077644,
+            lat: 6.444370,
+            lng: 7.490580,
             icon: "images/marker.png",
             animation: google.maps.Animation.DROP
         });
